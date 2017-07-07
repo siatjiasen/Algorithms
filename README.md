@@ -1,5 +1,5 @@
 # Scripts
 
 MATLAB scripts for 
-1. reading, converting or storing data between different formats. 
-2. improving work efficiency. 
+1. Mathematical algorithm prototype. 
+2. Utility code.
